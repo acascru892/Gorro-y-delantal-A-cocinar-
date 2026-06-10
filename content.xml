@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026061016550419BTIZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260610165504W9GY99</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>UD: &quot;GORRO Y DELANTAL, A COCINAR&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781101331203</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1781100212238-2z3ze4ulv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100212238-2z3ze4ulv</odePageId>
+      <odeBlockId>block-1781100784683-4jniw5k78</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100212238-2z3ze4ulv</odePageId>
+          <odeBlockId>block-1781100784683-4jniw5k78</odeBlockId>
+          <odeIdeviceId>idevice-1781100784682-un4igvpf9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/yx41zopb8ib5nnz">https://canva.link/yx41zopb8ib5nnz</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781100784682-un4igvpf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/yx41zopb8ib5nnz\">https://canva.link/yx41zopb8ib5nnz</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100581169-s1os58b41</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100581169-s1os58b41</odePageId>
+      <odeBlockId>block-1781100982464-1dketqvrm</odeBlockId>
+      <blockName>Protección de datos</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100581169-s1os58b41</odePageId>
+          <odeBlockId>block-1781100982464-1dketqvrm</odeBlockId>
+          <odeIdeviceId>idevice-1781100982458-najelqvuk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://canva.link/aekplqxq2l4xiz8</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781100982458-najelqvuk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://canva.link/aekplqxq2l4xiz8</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100609619-yun6rxd6j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100609619-yun6rxd6j</odePageId>
+      <odeBlockId>block-1781101472421-oof12c6e5</odeBlockId>
+      <blockName>Herramienta para el producto final</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100609619-yun6rxd6j</odePageId>
+          <odeBlockId>block-1781101472421-oof12c6e5</odeBlockId>
+          <odeIdeviceId>idevice-1781101472417-af9icqngl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final he elegido utilizar Genially y Canva, ya que son herramientas muy fáciles de usar y permiten crear contenidos visuales de forma clara, atractiva y adaptada al alumnado.</p>
+<p>El objetivo es que el alumnado elabore una receta de cocina con pictogramas y posteriormente un recetario digital colaborativo.</p>
+<p>Por un lado, con Genially el alumnado realizará en clase una receta sencilla. Debido al nivel del grupo, la actividad consistirá en elaborar la receta añadiendo los pictogramas necesarios en cada paso, lo que facilita la comprensión, la secuenciación y el acceso a la información. Esta herramienta es muy adecuada porque permite trabajar de forma visual e interactiva, favoreciendo la inclusión de alumnado con dificultades lectoras o con necesidad de apoyos visuales.</p>
+<p>Por otro lado, utilizaremos Canva para crear el recetario digital. Este se realizará en casa con la ayuda de las familias, incluyendo fotos en las que los niños y niñas hayan participado en la elaboración de la receta. De esta manera, se fomenta la participación familiar y se conecta el aprendizaje con su entorno cercano. Además, Canva permite organizar la información de forma clara gracias a sus plantillas, siendo adecuada para el nivel de competencia digital del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781101472417-af9icqngl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el producto final he elegido utilizar Genially y Canva, ya que son herramientas muy fáciles de usar y permiten crear contenidos visuales de forma clara, atractiva y adaptada al alumnado.</p>\n<p>El objetivo es que el alumnado elabore una receta de cocina con pictogramas y posteriormente un recetario digital colaborativo.</p>\n<p>Por un lado, con Genially el alumnado realizará en clase una receta sencilla. Debido al nivel del grupo, la actividad consistirá en elaborar la receta añadiendo los pictogramas necesarios en cada paso, lo que facilita la comprensión, la secuenciación y el acceso a la información. Esta herramienta es muy adecuada porque permite trabajar de forma visual e interactiva, favoreciendo la inclusión de alumnado con dificultades lectoras o con necesidad de apoyos visuales.</p>\n<p>Por otro lado, utilizaremos Canva para crear el recetario digital. Este se realizará en casa con la ayuda de las familias, incluyendo fotos en las que los niños y niñas hayan participado en la elaboración de la receta. De esta manera, se fomenta la participación familiar y se conecta el aprendizaje con su entorno cercano. Además, Canva permite organizar la información de forma clara gracias a sus plantillas, siendo adecuada para el nivel de competencia digital del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100645223-952u2gost</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100645223-952u2gost</odePageId>
+      <odeBlockId>block-1781101075115-tixudts9q</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100645223-952u2gost</odePageId>
+          <odeBlockId>block-1781101075115-tixudts9q</odeBlockId>
+          <odeIdeviceId>idevice-1781101075111-korctjcfj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://www.symbaloo.com/shared/AAAAAc5DOZIAA41-5EVD6A==</p>
+<p>https://padlet.com/acascrupt/recetea-u37nwkku6mx7b233</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781101075111-korctjcfj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://www.symbaloo.com/shared/AAAAAc5DOZIAA41-5EVD6A==</p>\n<p>https://padlet.com/acascrupt/recetea-u37nwkku6mx7b233</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100681847-6zixhgner</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100681847-6zixhgner</odePageId>
+      <odeBlockId>block-1781101122044-aq25g9ich</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100681847-6zixhgner</odePageId>
+          <odeBlockId>block-1781101122044-aq25g9ich</odeBlockId>
+          <odeIdeviceId>idevice-1781101122041-q51go5toz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://canva.link/51bxcyemtanrst3</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781101122041-q51go5toz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://canva.link/51bxcyemtanrst3</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100689672-quikmqxk0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100689672-quikmqxk0</odePageId>
+      <odeBlockId>block-1781101176962-w9wdlqv1f</odeBlockId>
+      <blockName>Actividades y criterios de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100689672-quikmqxk0</odePageId>
+          <odeBlockId>block-1781101176962-w9wdlqv1f</odeBlockId>
+          <odeIdeviceId>idevice-1781101176961-gprv5mbu4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://docs.google.com/document/d/1f0st_wh60panxrFMXHp1aAxw08SbU0USvrDiei9bQcI/edit?usp=sharing</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781101176961-gprv5mbu4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://docs.google.com/document/d/1f0st_wh60panxrFMXHp1aAxw08SbU0USvrDiei9bQcI/edit?usp=sharing</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781100698806-49xu1tdwa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781100698806-49xu1tdwa</odePageId>
+      <odeBlockId>block-1781101220216-3vh2tzfn8</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781100698806-49xu1tdwa</odePageId>
+          <odeBlockId>block-1781101220216-3vh2tzfn8</odeBlockId>
+          <odeIdeviceId>idevice-1781101220215-nu2jslazq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://canva.link/3ita1elf9mv7xb9</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781101220215-nu2jslazq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://canva.link/3ita1elf9mv7xb9</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781102295425-5pe5sm58z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781102295425-5pe5sm58z</odePageId>
+      <odeBlockId>block-1781102298439-ipi9kv76j</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781102295425-5pe5sm58z</odePageId>
+          <odeBlockId>block-1781102298439-ipi9kv76j</odeBlockId>
+          <odeIdeviceId>idevice-1781102298436-fa7of7he9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong></p>
+<p><br />Ana Castillo Cruz</p>
+<p>Curso académico: 2025-2026</p>
+<p> <br /><strong>Título del proyecto</strong></p>
+<p><br />«Gorro y delantal ¡A cocinar!»</p>
+<p>Situación de Aprendizaje diseñada para alumnado de Aula TEA de 2.º ciclo de Educación Infantil.</p>
+<p> <br /><strong>Descripción</strong></p>
+<p><br />«Gorro y delantal ¡A cocinar!» es una Situación de Aprendizaje centrada en el conocimiento y la exploración de los alimentos a través de experiencias manipulativas, sensoriales y lúdicas. El proyecto pretende favorecer la autonomía personal, la comunicación, el desarrollo de hábitos saludables y la participación activa del alumnado mediante actividades adaptadas a sus necesidades educativas, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p> <br /><strong>Licencia de uso</strong></p>
+<p><br />Esta obra se distribuye bajo la licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>
+<p>Se permite copiar, distribuir, comunicar públicamente y adaptar este material, siempre que se reconozca la autoría y las obras derivadas se compartan bajo la misma licencia.</p>
+<p> <br /><strong>Recursos y atribuciones</strong></p>
+<p><br />Para la elaboración de este recurso se han utilizado materiales propios y recursos educativos procedentes de plataformas que permiten su uso con fines educativos.</p>
+<p>Material gráfico y elementos de diseño elaborados mediante Canva.<br />Recursos audiovisuales incrustados desde YouTube, manteniendo la autoría original de sus creadores.<br />Los recursos externos utilizados conservan en todo momento sus correspondientes derechos de autor y licencias de uso.<br /> <br /><strong>Descarga del archivo editable</strong></p>
+<p><br />El archivo editable del proyecto en formato .elp (eXeLearning) se encuentra disponible para su descarga en el repositorio de publicación del proyecto.</p>
+<p>Enlace de descarga: https://github.com/acascru892/Gorro-y-delantal-A-cocinar-</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781102298436-fa7of7he9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong></p>\n<p><br />Ana Castillo Cruz</p>\n<p>Curso académico: 2025-2026</p>\n<p> <br /><strong>Título del proyecto</strong></p>\n<p><br />«Gorro y delantal ¡A cocinar!»</p>\n<p>Situación de Aprendizaje diseñada para alumnado de Aula TEA de 2.º ciclo de Educación Infantil.</p>\n<p> <br /><strong>Descripción</strong></p>\n<p><br />«Gorro y delantal ¡A cocinar!» es una Situación de Aprendizaje centrada en el conocimiento y la exploración de los alimentos a través de experiencias manipulativas, sensoriales y lúdicas. El proyecto pretende favorecer la autonomía personal, la comunicación, el desarrollo de hábitos saludables y la participación activa del alumnado mediante actividades adaptadas a sus necesidades educativas, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p> <br /><strong>Licencia de uso</strong></p>\n<p><br />Esta obra se distribuye bajo la licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p>Se permite copiar, distribuir, comunicar públicamente y adaptar este material, siempre que se reconozca la autoría y las obras derivadas se compartan bajo la misma licencia.</p>\n<p> <br /><strong>Recursos y atribuciones</strong></p>\n<p><br />Para la elaboración de este recurso se han utilizado materiales propios y recursos educativos procedentes de plataformas que permiten su uso con fines educativos.</p>\n<p>Material gráfico y elementos de diseño elaborados mediante Canva.<br />Recursos audiovisuales incrustados desde YouTube, manteniendo la autoría original de sus creadores.<br />Los recursos externos utilizados conservan en todo momento sus correspondientes derechos de autor y licencias de uso.<br /> <br /><strong>Descarga del archivo editable</strong></p>\n<p><br />El archivo editable del proyecto en formato .elp (eXeLearning) se encuentra disponible para su descarga en el repositorio de publicación del proyecto.</p>\n<p>Enlace de descarga: https://github.com/acascru892/Gorro-y-delantal-A-cocinar-</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
